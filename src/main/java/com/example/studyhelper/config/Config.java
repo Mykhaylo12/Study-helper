@@ -8,8 +8,8 @@ import org.springframework.mail.javamail.JavaMailSenderImpl;
 
 @Configuration
 public class Config {
-    public static final String APP_EMAIL = "spytest488@gmail.com";
-    public static final String APP_EMAIL_PASSWORD = "Spytest123456";
+    public static final String APP_EMAIL = "yourEmail@gmail.com";
+    public static final String APP_EMAIL_PASSWORD = "**********";
     public static final String FOLDER_PATH = "C:\\Users\\user\\Desktop\\screenshot\\";
     public static final String IMAGE_FORMAT = "jpg";
     public static final String TIME_FORMATTER = "yyyyMMdd hh mm ss";
