@@ -41,6 +41,8 @@ Open the project in your IDE.
 In Config.java file set yours appropriate properties
 
 APP_EMAIL-email where you need to send a message with subject "screen" or "webcam" to get screenshot back.
+[Give access for less secure applications for your email](https://myaccount.google.com/lesssecureapps)
+
 
 APP_EMAIL_PASSWORD- password for APP_EMAIL.
 
